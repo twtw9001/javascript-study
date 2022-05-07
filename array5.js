@@ -8,4 +8,4 @@ function copySorted(arr) {
 }
 
 console.log(copySorted(arr));
-console.log(arr);
+// console.log(arr);
