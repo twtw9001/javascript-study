@@ -26,6 +26,6 @@ function ucFirstWord(userName) {
 }
 
 ucFirstWord("kim han bit");
-ucFirstWord("yang jun mo");
+// ucFirstWord("yang jun mo");
 
 console.log(newName.join(" "));
